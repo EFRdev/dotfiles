@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = enrikefr5@gmail.com
+	name = Enrique Flores
